@@ -1,4 +1,4 @@
-local key = "dummmy"
+local key = "manav"
 local file = io.open("/sdcard/fvc", "w")
 if file then
     file:write(key)
