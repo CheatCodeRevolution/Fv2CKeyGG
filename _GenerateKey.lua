@@ -9,4 +9,4 @@ else
     os.exit()
 end
 
-print("❤️ Thank You ❤️\n"..key)
+print("❤️ Thank You "..key)
