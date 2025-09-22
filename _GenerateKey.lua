@@ -1,4 +1,4 @@
-local key = "willy"
+local key = "ghost"
 local file = io.open("fvc", "w")
 if file then
     file:write(key)
